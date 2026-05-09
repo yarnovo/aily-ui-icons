@@ -1,5 +1,5 @@
 {
-  "name": "@akong/icons",
+  "name": "@aily-ui/icons",
   "version": "0.1.0",
   "description": "akong icons · 封装 lucide · antd 风统一 props · 跨端 (Web + React Native)",
   "type": "module",

@@ -2,8 +2,8 @@
  * akong icons (Web)
  *
  * 用法:
- *   import { Home, Search, Plus } from '@akong/icons'
- *   import '@akong/icons/style.css'   // 给 spin 动画用 (可选 · 不用 spin 就不用引)
+ *   import { Home, Search, Plus } from '@aily-ui/icons'
+ *   import '@aily-ui/icons/style.css'   // 给 spin 动画用 (可选 · 不用 spin 就不用引)
  *
  *   <Home size={24} />
  *   <Plus size={20} color="var(--ak-accent)" />

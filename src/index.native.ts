@@ -4,7 +4,7 @@
  * 用方需装: lucide-react-native + react-native-svg
  *
  * 用法跟 Web 一致 · Metro 自动 resolve .native:
- *   import { Home } from '@akong/icons'
+ *   import { Home } from '@aily-ui/icons'
  *   <Home size={24} />
  */
 
