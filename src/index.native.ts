@@ -43,6 +43,8 @@ import {
   Trash2 as LTrash,
   AtSign as LAt,
   Hash as LHash,
+  Play as LPlay,
+  Pause as LPause,
 } from 'lucide-react-native'
 
 import { createIcon } from './IconBase.native'
@@ -79,6 +81,8 @@ export const Star = createIcon(LStar, 'Star')
 
 export const Camera = createIcon(LCamera, 'Camera')
 export const Image = createIcon(LImage, 'Image')
+export const Play = createIcon(LPlay, 'Play')
+export const Pause = createIcon(LPause, 'Pause')
 
 export const Loader = createIcon(LLoader, 'Loader')
 export const Eye = createIcon(LEye, 'Eye')
