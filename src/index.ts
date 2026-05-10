@@ -45,6 +45,8 @@ import {
   Trash2 as LTrash,
   AtSign as LAt,
   Hash as LHash,
+  Play as LPlay,
+  Pause as LPause,
 } from 'lucide-react'
 
 import { createIcon } from './IconBase'
@@ -86,6 +88,8 @@ export const Star = createIcon(LStar, 'Star')
 // === 媒体 ===
 export const Camera = createIcon(LCamera, 'Camera')
 export const Image = createIcon(LImage, 'Image')
+export const Play = createIcon(LPlay, 'Play')
+export const Pause = createIcon(LPause, 'Pause')
 
 // === 状态 ===
 export const Loader = createIcon(LLoader, 'Loader')
